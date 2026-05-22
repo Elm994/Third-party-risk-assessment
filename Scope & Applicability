@@ -1,21 +1,39 @@
-# Scope & Applicability
+# Scope and Applicability
 
-This TPRA applies to all external parties that:
+This framework applies to:
 
-- Process organisational data  
-- Access organisational systems  
-- Provide cloud or SaaS services  
-- Provide AI/ML capabilities  
-- Integrate via API  
-- Provide managed services  
-- Store, transmit, or process sensitive information  
+- Software-as-a-Service (SaaS) providers
+- Cloud hosting providers
+- Managed security service providers
+- Payroll vendors
+- HR systems
+- AI/LLM providers
+- Data analytics vendors
+- Payment processors
+- Infrastructure providers
+- Offshore development vendors
 
-Vendor categories include:
+## Assessment Scope
 
-- SaaS platforms  
-- Cloud service providers  
-- AI/LLM vendors  
-- Managed service providers  
-- Offshore development teams  
-- Sub‑processors  
-- Open‑source dependencies 
+The assessment evaluates:
+
+- Information security
+- Data protection
+- AI governance
+- Business continuity
+- Disaster recovery
+- Incident response
+- Regulatory compliance
+- Vendor financial health
+- Operational resilience
+- Supply chain security
+
+## Exclusions
+
+The framework does not replace:
+
+- Formal penetration testing
+- Legal reviews
+- Procurement reviews
+- Financial audits
+- Privacy impact assessments

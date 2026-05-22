@@ -1,23 +1,21 @@
-This TPRA applies to:
+# Scope & Applicability
 
-SaaS vendors
+This TPRA applies to all external parties that:
 
-Cloud service providers
+- Process organisational data  
+- Access organisational systems  
+- Provide cloud or SaaS services  
+- Provide AI/ML capabilities  
+- Integrate via API  
+- Provide managed services  
+- Store, transmit, or process sensitive information  
 
-AI/ML platforms
+Vendor categories include:
 
-Managed service providers (MSPs)
-
-Offshore development teams
-
-Data processors
-
-Sub‑processors
-
-Open‑source dependencies
-
-API‑integrated services
-
-LLM‑based tools
-
-It covers pre‑contract, onboarding, ongoing monitoring, and offboarding.
+- SaaS platforms  
+- Cloud service providers  
+- AI/LLM vendors  
+- Managed service providers  
+- Offshore development teams  
+- Sub‑processors  
+- Open‑source dependencies 

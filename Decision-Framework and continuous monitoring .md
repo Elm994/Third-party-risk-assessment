@@ -15,3 +15,25 @@
 - Undisclosed sub-processors
 - Severe financial instability
 - Unsafe AI processing practices
+
+# Continuous Monitoring
+
+## Monitoring Activities
+
+- Annual reassessments
+- Quarterly security reviews
+- Threat intelligence monitoring
+- Financial monitoring
+- External attack surface monitoring
+- Security rating reviews
+- AI governance reviews
+
+## Trigger Events
+
+Reassessment should occur when:
+
+- Major breaches occur
+- Ownership changes
+- AI capability changes
+- Critical vulnerabilities emerge
+- Regulatory obligations change
